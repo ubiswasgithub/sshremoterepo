@@ -2,6 +2,7 @@
 Dscripton about cat is added.
 <<<<<<< HEAD
 This is a change from the local repository.
+H3 {color:green}
 
 =======
 This is a change from the remote repository.
