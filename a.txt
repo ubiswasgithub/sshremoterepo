@@ -1,10 +1,9 @@
 <!--- UB: please add the description for Cat to this file -->
 Dscripton about cat is added.
-<<<<<<< HEAD
 This is a change from the local repository.
+
 H3 {color:green}
 
-=======
 This is a change from the remote repository.
->>>>>>> c487246158a937ba98e7e87c9dfc66bade0ab368
+
 This is a simple line to check the pull command.
